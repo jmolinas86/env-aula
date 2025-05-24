@@ -1,1 +1,2 @@
-select * from myballs  
+select * from myballs;
+select * from mybigballs;
